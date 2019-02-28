@@ -1,6 +1,10 @@
-## Sorts array of Integers in linear time
-## Yes, native C realisation in new PHP 2 times faster
-## Created for algorithm demonstration and education purposes
+# Sorts array of Integers in linear time
 
-## Author: Mr. Powerand
-## Email: artur.yudin.88@gmail.com
+>Yes, native C realisation in new PHP 2 times faster
+
+>Created for algorithm demonstration and education purposes
+
+***
+> Author: powerand
+
+> Email: artur.yudin.88@gmail.com
